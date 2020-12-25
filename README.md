@@ -21,5 +21,5 @@
 
 ### ☎️ For any info's and enquiry
 ---
-Follow/DM on Twitter.
+Follow/DM on Twitter.<br>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sinanthahir?label=Follow&style=social">
