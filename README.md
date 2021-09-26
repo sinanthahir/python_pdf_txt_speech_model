@@ -18,8 +18,3 @@
 - Install the Required Libraries like [PyPDF2](https://pypi.org/project/PyPDF2/), [appJar](http://appjar.info/) & more.
 - Open-sourced project, So happy to see new *GUI Versions* and *Control Functions*.
 - Welcoming everyone for New project ideas and collabs.
-
-### ☎️ For any info's and enquiry
----
-Follow/DM on Twitter.<br>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sinanthahir?label=Follow&style=social">
